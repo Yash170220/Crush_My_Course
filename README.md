@@ -14,6 +14,8 @@ Check out the Intro video on [Youtube](https://youtu.be/K8aPhdZgYQU).
 - Interactive dashboard.
 - Alexis AI Assistant
   - Our AI analyzes your academic history to provide personalized recommendations and instant query support.
+- Smart assistant is built using a full RAG pipeline (ChromaDB + HuggingFace embeddings + Groq’s LLaMA 3.1) with a FastAPI backend, delivering real-time, personalized answers from course data
+
 
 ## 🛠️ Local Development Setup
 
