@@ -56,7 +56,7 @@ Thank you for your interest in contributing to this project! At this time, we ar
 ## 📧 Contact
 
 [Yash Dusane
-](https://www.linkedin.com/in/yashrd/) | [Vishal Shinde](https://www.linkedin.com/in/vishal-shinde-/) | [Yash Mahajan](https://www.linkedin.com/in/yashmahajan27/) | | [Arnav Tanawade ](https://www.linkedin.com/in/arnavtanawade03/) |
+](https://www.linkedin.com/in/yashrd/) | [Vishal Shinde](https://www.linkedin.com/in/vishal-shinde-/) | [Yash Mahajan](https://www.linkedin.com/in/yashmahajan27/) | [Arnav Tanawade ](https://www.linkedin.com/in/arnavtanawade03/) |
 
 ---
 
